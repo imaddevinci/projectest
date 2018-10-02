@@ -3,7 +3,7 @@ package miqi;
 public class Voiture {
     private String marque;
     private String couleur;
-    private int place;
+    private int placei;
 
     public Voiture(String marque, String couleur, int place) {
         this.marque = marque;
